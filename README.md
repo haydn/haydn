@@ -62,6 +62,7 @@ Here are some of my go-to tech choices:
 - PostgreSQL (using Supabase)
 - Jitsu (analytics and ETL)
 - Redshift
+- DBT
 - Redis
 
 ## 💌 Contact
